@@ -1,0 +1,18 @@
+{
+	"name": "corrently-vue",
+	"version": "1.0.1",
+	"description": "View for usage of corrently ecosystem in a browser UI",
+	"homepage": "https://github.com/energychain/corrently-vue#readme",
+	"bugs": {
+		"url": "https://github.com/energychain/corrently-vue/issues"
+	},
+	"license": "ISC",
+	"main": "model.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/energychain/corrently-vue.git"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
